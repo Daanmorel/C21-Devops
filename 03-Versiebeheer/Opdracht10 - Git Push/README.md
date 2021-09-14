@@ -22,9 +22,8 @@ Dit kopiëren van een lokale repository naar een remote repository noem je in Gi
    
 3. Kijk in je browser op Github of het bestand dat je gewijzigd hebt in opdracht09 en daarna hebt gecommit met de commit-message `spelfout gefixt` ook op Github zichtbaar is. Als het goed is kun je ook zien *wie* deze laatste commit heeft gedaan. Ben jij het? Gefeliciteerd! Je hebt nu de basisworkflow te pakken voor het werken met Canvas, Git en Github :) 
 
-## Eindresultaat
-
-Je hebt de laatste versie van je lokale repository gekopieerd naar de remote-repository op Github door deze te pushen vanuit VS Code. 
+## Eindresultaat 
+laatste versie van je lokale repository gekopieerd naar de remote-repository op Github door deze te pushen vanuit VS Code. 
 Je kan zien of dit gelukt is door op Github te kijken naar de laatste commit.
 
 ## Bronnen
